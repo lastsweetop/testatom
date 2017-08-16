@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fetch code",
+        "command": "testatom:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "testatom",
+          "submenu": [
+            {
+              "label": "fetch code",
+              "command": "testatom:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
