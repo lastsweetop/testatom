@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "testatom:fetch"
   },
-  "repository": "https://github.com/atom/testatom",
+  "repository": "https://github.com/lastsweetop/testatom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
