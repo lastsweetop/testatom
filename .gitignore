@@ -33,7 +33,8 @@ bower_components
 build/Release
 
 # Dependency directories
-atomliba/
+node_modules/
+atomlib/
 
 # Typescript v1 declaration files
 typings/
